@@ -1,0 +1,40 @@
+Data Science with Python
+
+Machine Learning = Programming + Math
+
+- General Purpose language
+- Interpreted Language (as well as compiled)
+- Dynamically Typed
+
+.ipynb
+Data Science
+- Data Collection		
+  - Files    -> Excel, CSV, TSV, JSON... => Pandas
+  - DB       -> SQL,NoSQL(MongoDB)  => pymysql/pymongo
+  - Crawling -> html  => bs4 (Beautiful Soup)
+- Data Analysis     => Numpy / Pandas / Matplotlib, Seaborn
+  - Data Cleaning
+  - Data Preprocessing
+  - Statistical Analysis
+  - Data Visualization
+- Machine Learning (Predictive Modeling) / Deep Learning
+  => sklearn / tensorflow / keras / pytorch
+- Optimization
+- Deployement
+
+
+Numpy
+- ndArray
+
+Pandas
+- Series - 1D
+- DataFrame - 2D
+
+Sklearn
+
+https://github.com/brainmentorspvtltd/MSIT_DataScience
+
+
+
+
+
